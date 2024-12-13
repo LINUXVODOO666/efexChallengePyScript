@@ -15,7 +15,7 @@ __pycache__/
 *.coverage
 .coverage.*
 *.pytest_cache/
-.pytest_cache/
+.pytest_cache
 
 # IDEs
 .vscode/
